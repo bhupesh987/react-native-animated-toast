@@ -6,7 +6,7 @@
 ### Installation
 
 ```bash
-npm i react-native-animated-toast --save
+npm i react-native-custom-toast-view --save
 ```
 
 ## Usage

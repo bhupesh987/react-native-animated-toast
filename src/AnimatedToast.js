@@ -14,7 +14,7 @@ const AnimatedToast = () => {
   const {toastVisible, showToast} = useToastProvider();
 
   useEffect(() => {
-    !!toastVisible && popupToast(isFirstTime, 'success');
+    !!toastVisible && popupToast(toastVisible, 'success');
   }, [toastVisible]);
 
   const popupToast = (message = '', type = '', duration = 2000) => {

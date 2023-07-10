@@ -1,6 +1,6 @@
 {
-  "name": "react-native-animated-toast",
-  "version": "1.0.0",
+  "name": "react-native-custom-toast-view",
+  "version": "1.0.1",
   "description": "Animated toast notification component for react native",
   "main": "index.js",
   "scripts": {

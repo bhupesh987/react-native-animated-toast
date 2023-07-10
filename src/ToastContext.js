@@ -15,6 +15,7 @@ export const ToastProvider = ({children}) => {
         toastVisible,
         showToast: setShowToast,
       }}>
+        {children}
       <AnimatedToast />
     </ToastContext.Provider>
   );
