@@ -7,6 +7,11 @@
     "lint": "eslint .",
     "test": "jest"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bhupesh987/react-native-animated-toast.git"
+  },
+  "homepage": "https://github.com/bhupesh987/react-native-animated-toast/blob/master/Readme.md",
   "keywords": [
     "toast",
     "toast notifications",
