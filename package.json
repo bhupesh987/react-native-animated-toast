@@ -1,0 +1,22 @@
+{
+  "name": "react-native-animated-toast",
+  "version": "1.0.0",
+  "description": "Animated toast notification component for react native",
+  "main": "index.js",
+  "scripts": {
+    "lint": "eslint .",
+    "test": "jest"
+  },
+  "keywords": [
+    "toast",
+    "toast notifications",
+    "custom toast",
+    "react native",
+    "toast notification"
+  ],
+  "author": "Bhupesh Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "react-native-reanimated": "^3.3.0"
+  }
+}
