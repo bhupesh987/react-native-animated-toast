@@ -1,10 +1,7 @@
 
 ## Getting Started
 
-
-
 ### Installation
-
 ```bash
 npm i react-native-custom-toast-view --save
 ```
@@ -31,6 +28,10 @@ showToast('Toast notification message', 'success')                 // use method
 ```
 
 4. The showToast() function accepts two arguments: the first is the message, and the second is the type (“success” or “error”).
-<img width=300 title="Success toast image" src="https://github.com/bhupesh987/react-native-animated-toast/blob/main/src/images/success.png">
-<img width=300 title="Error toast image" src="https://github.com/bhupesh987/react-native-animated-toast/blob/main/src/images/error.png">
+```javascript
+  <img width=300 title="Success toast image" src="https://github.com/bhupesh987/react-native-animated- 
+    toast/blob/main/src/images/success.png">
+  <img width=300 title="Error toast image" src="https://github.com/bhupesh987/react-native-animated- 
+    toast/blob/main/src/images/error.png">
+```
 
