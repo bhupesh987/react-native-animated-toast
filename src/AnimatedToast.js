@@ -1,6 +1,5 @@
-import {Animated, Image, Text} from 'react-native';
+import {Animated, Easing, Image, Text} from 'react-native';
 import React, {useEffect, useRef, useState} from 'react';
-import {Easing} from 'react-native-reanimated';
 
 import {images} from './images';
 import {useToastProvider} from './ToastContext';

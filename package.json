@@ -17,11 +17,11 @@
     "toast notifications",
     "custom toast",
     "react native",
-    "toast notification"
+    "toast notification",
+    "animated toast"
   ],
   "author": "Bhupesh Kumar",
   "license": "ISC",
   "dependencies": {
-    "react-native-reanimated": "^3.3.0"
   }
 }
